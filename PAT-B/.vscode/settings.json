@@ -2,6 +2,8 @@
     "files.associations": {
         ".fantomasignore": "ignore",
         "*.py": "python",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "iomanip": "cpp"
     }
 }
